@@ -50,3 +50,6 @@ terraform validate
 Apply the Configuration
 terraform apply
 ```
+## Day 3
+```bash
+```
