@@ -1,0 +1,1 @@
+bucketname = "januarybucket292025"
